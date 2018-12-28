@@ -1,2 +1,2 @@
 # BDSbiost3
-SAMPLE SIZE IN METAGENOMICS: DETERMINATION OF  RICHNESS AND SAMPLE SIZE (EFFORT)  - USING A BAYESIAN APPROACH
+Advanced function to omics data and machine learning (multivariate methods, networks analysis, sample size in omics, biodiversity calculations, machine learning disciminant and regression methods, etc)
