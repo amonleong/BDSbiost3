@@ -1,2 +1,2 @@
 # BDSbiost3
-Advanced function to omics data and machine learning (multivariate methods, networks analysis, sample size in omics, biodiversity calculations, machine learning disciminant and regression methods, etc)
+Machine learning and advanced statistical methods for omic, categorical analysis and others
